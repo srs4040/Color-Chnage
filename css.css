@@ -1,0 +1,32 @@
+body{
+    background-color: red;
+  }
+  div{
+    width:200px;
+    font-size:25px;
+  }
+  
+  #d1{
+    background-color:Cyan;
+    border:solid;
+    border-width:3px;
+    border-color:green;
+    border-radius:5px;
+  }
+  #d2{
+    background-color:yellow;
+    margin-top:10px;
+    border:dashed;
+    border-width:3px;
+    border-color:black;
+    border-radius:5px;
+  }
+  
+  .clg1{
+    background-color:Red;
+    font-color:red;
+  }
+  
+  .clg2{
+    background-color: Black;
+  }
